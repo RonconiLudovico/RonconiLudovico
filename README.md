@@ -8,7 +8,6 @@
 ⌛ - In my free time I love to do roadtrips to go surfing and getting closer to nature  
 <br />
 ---
-<br />
 
 ### I'm not a fan of social medias but we can still connect here:
 [<img align="left" alt="Discord" width="22px" src="img/discord-logo-0.webp" style="padding-right:10px;" />][Discord]
