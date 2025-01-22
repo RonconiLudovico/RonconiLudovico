@@ -28,6 +28,8 @@
 <br />
 <br />
 
+---
+
 [TomorrowDevs]: https://www.tomorrowdevs.com/
 [Discord]: https://discord.com/users/lrontheroad97_30854
 [LinkedIn]: https://www.linkedin.com/in/ludovico-ronconi/
