@@ -7,11 +7,13 @@
 🥅 - 2025 goal: land my first internship as a developer  
 ⌛ - In my free time I love to do roadtrips to go surfing and getting closer to nature  
 
+<br />
+<br />
 
 ### I'm not a fan of social medias but we can still connect here:
-[<img align="left" alt="Discord" width="22px" src="img/discord-logo-0.webp" />][Discord]
-[<img align="left" alt="LinkedIn" width="22px" src="img/LinkedIn_logo_initials.webp" />][LinkedIn]
-[<img align="left" alt="Email" width="22px" src="img/gmail_logo.webp" />][Email]
+[<img align="left" alt="Discord" width="22px" src="img/discord-logo-0.webp" style="padding-right:10px;" />][Discord]
+[<img align="left" alt="LinkedIn" width="22px" src="img/LinkedIn_logo_initials.webp" style="padding-right:10px;" />][LinkedIn]
+[<img align="left" alt="Email" width="22px" src="img/gmail_logo.webp" style="padding-right:10px;" />][Email]
 
 <br />
 
