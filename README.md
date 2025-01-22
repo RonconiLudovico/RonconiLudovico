@@ -6,8 +6,7 @@
 🔐 - Strong interest for the field of Cyber Security  
 🥅 - 2025 goal: land my first internship as a developer  
 ⌛ - In my free time I love to do roadtrips to go surfing and getting closer to nature  
-
-<br />
+---
 <br />
 
 ### I'm not a fan of social medias but we can still connect here:
