@@ -1,11 +1,11 @@
 ### Hello and welcome to my GitHub! I'm Ludovico from Italy 🇮🇹
 
 ## I am dedicating my life to studying for a career change 👨🏼‍💻
-👨🏼‍🏫 - Currently following a [TomorrowDevs] Mentorship
-🌱 - No work experience but passionate about learning and never stop growing
-🔐 - Strong interest for the field of Cyber Security
-🥅 - 2025 goal: land my first job
-⌛ - I love to do roadtrips to go surfing and getting closer to nature
+👨🏼‍🏫 - Currently following a [TomorrowDevs] Mentorship  
+🌱 - No work experience but passionate about learning and never stop growing  
+🔐 - Strong interest for the field of Cyber Security  
+🥅 - 2025 goal: land my first internship as a developer  
+⌛ - I love to do roadtrips to go surfing and getting closer to nature  
 
 
 ### I'm not a fan of social medias but we can still connect here:
