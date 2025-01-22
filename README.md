@@ -5,7 +5,7 @@
 🌱 - No work experience but passionate about learning and never stop growing  
 🔐 - Strong interest for the field of Cyber Security  
 🥅 - 2025 goal: land my first internship as a developer  
-⌛ - I love to do roadtrips to go surfing and getting closer to nature  
+⌛ - In my free time I love to do roadtrips to go surfing and getting closer to nature  
 
 
 ### I'm not a fan of social medias but we can still connect here:
