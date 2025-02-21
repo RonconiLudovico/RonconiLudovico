@@ -25,6 +25,7 @@
 <picture><img align="left" alt="Git" width="26px" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.svg" style="padding-right:10px; " rel="nofollow"/></picture>
 <picture><img align="left" alt="Linux" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/759px-Tux.svg.png?20220320193426" style="padding-right:10px; " rel="nofollow"/></picture>
 <picture><img align="left" alt="Ubuntu" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Logo-ubuntu_cof-orange-hex.svg/428px-Logo-ubuntu_cof-orange-hex.svg.png?20130511162351" style="padding-right:10px; " rel="nofollow" /></picture>
+<picture><img align="left" alt="SQL" width="26px" src="https://imgs.search.brave.com/g25Go0D2iqBwkBlvM0pwddYMcz47g67DgFTQtl2pnfw/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMuc2Vla2xvZ28u/Y29tL2xvZ28tcG5n/LzUwLzIvc3FsLWxv/Z28tcG5nX3NlZWts/b2dvLTUwNTI0Ny5w/bmc" style="padding-right:10px; " rel="nofollow" /></picture>
 
 
 <br />
