@@ -4,7 +4,7 @@
   
 🌱 - No work experience but passionate about learning and never stop growing  
 🔐 - Strong interest for the field of Cyber Security  
-🥅 - 2025 goal: land my first internship as a developer  
+🥅 - 2025 goal: land my first job in the IT field  
 ⌛ - In my free time I love to do roadtrips to go surfing and getting closer to nature  
 <br />
 ---
